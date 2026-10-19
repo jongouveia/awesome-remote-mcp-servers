@@ -2272,6 +2272,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ChimpanSEO](https://chimpanseo.app) `https://chimpanseo.app/api/mcp`
   [![ChimpanSEO MCP connector](https://glama.ai/mcp/connectors/app.chimpanseo/chimpanseo/badges/score.svg)](https://glama.ai/mcp/connectors/app.chimpanseo/chimpanseo)
   🔓 - Generate, schedule and publish GEO/AEO-optimized articles to WordPress; tools need an account.
+- [citation-tracker](https://pixelcove.co/tools/citation-tracker) `https://citation-tracker.pixelcove.co/mcp`
+  [![citation-tracker MCP connector](https://glama.ai/mcp/connectors/co.pixelcove/citation-tracker/badges/score.svg)](https://glama.ai/mcp/connectors/co.pixelcove/citation-tracker)
+  🔓 - Checks whether Perplexity, ChatGPT, Claude and Gemini cite your domain for a prompt; x402 or prepaid credit.
 - [Cite42](https://www.cite42.dev) `https://mcp.cite42.dev`
   [![Cite42 MCP connector](https://glama.ai/mcp/connectors/dev.cite42/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/dev.cite42/mcp)
   🔐 - Check whether ChatGPT, Claude, Perplexity and Gemini mention your brand and what they cite; keyword and trend data.
@@ -2479,6 +2482,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [TheQRCode.io](https://theqrcode.io/mcp) `https://mcp.theqrcode.io/mcp`
   [![TheQRCode.io MCP connector](https://glama.ai/mcp/connectors/io.theqrcode/qr-code-generator/badges/score.svg)](https://glama.ai/mcp/connectors/io.theqrcode/qr-code-generator)
   🔓 - Generate QR codes, list saved codes, and read scan analytics by time, device and approximate location.
+- [topic-scorer](https://pixelcove.co/tools/topic-scorer) `https://topic-scorer.pixelcove.co/mcp`
+  [![topic-scorer MCP connector](https://glama.ai/mcp/connectors/co.pixelcove/topic-scorer/badges/score.svg)](https://glama.ai/mcp/connectors/co.pixelcove/topic-scorer)
+  🔓 - Scores a page against 11,485 taxonomy categories and returns the phrases it needs; x402 or prepaid credit.
 - [UGCfy AI](https://ugcfy.ai/mcp) `https://ugcfy.ai/api/mcp`
   [![UGCfy AI MCP connector](https://glama.ai/mcp/connectors/ai.ugcfy/ugcfy-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/ai.ugcfy/ugcfy-mcp)
   🔓 - Break down a TikTok or Reels ad and rewrite it for your product, plus UGC hooks, scripts and CPM.
